@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566126755781.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "987610674",
+    "id" : "DD0F61DC",
+    "lastKnownWriteTime" : 1566142293,
+    "last_content_update" : 1566142293760,
+    "path" : "C:/Users/DELL/Desktop/BioInformatics/Fourth Year/Advanced Stat/dna_aminoacid.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "71,9",
+        "scrollLine" : "47"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
